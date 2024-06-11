@@ -5,3 +5,6 @@
 ### How to unzip this kali-linux with an unzipping file.
 ### To download [kali-linux](https:/https://www.kali.org/get-kali/)
 ### Hypoviser - Helps the operating system to emulate server 
+#### Types of Linux operating systems
+##### Blackarch Linux
+##### Garuda Linux
